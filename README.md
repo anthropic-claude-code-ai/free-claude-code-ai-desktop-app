@@ -2,7 +2,7 @@
 
 > **Free Claude Code AI Desktop App** — claude code ai free desktop app download anthropic claude api cli open source opencode aider gemini alternative local llm ollama windows 11 latest version 2026 setup guide tutorial.
 
-<img width="120" height="120" alt="images (8)" src="https://github.com/user-attachments/assets/9153754b-254d-4fa7-9a4b-698e5a21589f" />
+<img width="887" height="443" alt="ChatGPT Image 28 мая 2026 г , 20_29_44(2)" src="https://github.com/user-attachments/assets/17202519-978a-43d8-9aa9-3c0a8e3f4aff" />
 
 [![GitHub Stars](https://img.shields.io/github/stars/anthropic-claude-code-ai/free-claude-code-ai-desktop-app?style=flat-square&color=00d4aa)](https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/anthropic-claude-code-ai/free-claude-code-ai-desktop-app?style=flat-square&color=0099cc)](https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app/network)
